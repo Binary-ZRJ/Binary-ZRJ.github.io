@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: 
+cover_color: green
 
 # The blog button should not be removed.
 blog_button:
@@ -38,7 +38,7 @@ comment:
 # Social
 social:
     #weibo: onevcat
-    github: https://binary-zrj.github.io/
+    github: binary-zrj.github.io/
     #twitter: onevcat
     #gplus: 107108267983477358170
     mail: 510182a22rk.cdb@sina.cn
