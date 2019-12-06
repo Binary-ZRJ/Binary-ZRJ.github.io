@@ -1,6 +1,6 @@
 #### ------login1(SKCTF)
 
-![img](file:///C:\Users\Binary\AppData\Local\Temp\ksohtml7616\wps1.jpg) 
+![img](https://github.com/Binary-ZRJ/Binary-ZRJ.github.io/blob/master/blog_photos/login1.png?raw=true) 
 
 Sql 约束攻击：
 
