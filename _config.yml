@@ -1,8 +1,8 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
+title: Binary
+subtitle: 戒黄、戒赌、戒毒
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+description: 一入佛门深似海，从此啥都是路人
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    #weibo: onevcat
+    github: https://binary-zrj.github.io/
+    #twitter: onevcat
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: 510182a22rk.cdb@sina.cn
 
 # Google Analytics
 ga:
