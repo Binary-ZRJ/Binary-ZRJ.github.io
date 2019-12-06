@@ -22,7 +22,8 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: python, description: some notes, url: 'https://github.com/Binary-ZRJ/python'}
+    - {title: web, description: a test url, url: 'https://github.com/Binary-ZRJ/python'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
