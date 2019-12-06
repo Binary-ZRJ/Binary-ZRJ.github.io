@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: 
 
 # The blog button should not be removed.
 blog_button:
@@ -40,10 +40,10 @@ social:
     #weibo: onevcat
     github: https://binary-zrj.github.io/
     #twitter: onevcat
-    gplus: 107108267983477358170
+    #gplus: 107108267983477358170
     mail: 510182a22rk.cdb@sina.cn
 
 # Google Analytics
-ga:
+#ga:
     # id: your_ga_id
     # host: your_host
