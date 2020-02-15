@@ -3,11 +3,11 @@ title: Binary
 subtitle: to be foolish,to be hungry
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: 有的事拼命的想要忘记，到最后真的就忘了
-creator: <a href="http://onev.cat">@onevcat</a>
+#creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://vno.onevcat.com"
+#url: "http://vno.onevcat.com"
 
-permalink: /:year/:month/:title/
+#permalink: /:year/:month/:title/
 
 # Format
 highlighter: rouge
