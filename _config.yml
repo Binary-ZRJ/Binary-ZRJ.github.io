@@ -23,6 +23,7 @@ blog_button:
 # Navigation buttons in the front page.
 nav:
     - {title: stupid brain, description: xxx, url: ''}
+    - {title: <-back, description: xxx, url: ''}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
     
 
