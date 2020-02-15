@@ -22,11 +22,9 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: python, description: some notes, url: 'https://github.com/Binary-ZRJ/python'}
-    - {title: web, description: a test url, url: 'https://github.com/Binary-ZRJ/web-security'}
+    - {title: stupid brain, description: xxx, url: ''}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
-    - {title: sql, description: a test url, url: 'https://github.com/Binary-ZRJ/sql'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
+    
 
 # Pagination
 plugins: [jekyll-paginate]
